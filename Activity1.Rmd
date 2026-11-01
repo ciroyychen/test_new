@@ -1,7 +1,6 @@
 ---
 title: "Write data from R into a CSV file"
-author: "Yuyao Chen"
-date: "2026-11-01"
+Date: "2026-11-01"
 output: bookdown::word_document2
 ---
 
